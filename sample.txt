@@ -1,1 +1,1 @@
-https://github.com/keenkarthik/expOnGit/invitations
+git config credential.helper store
